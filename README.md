@@ -1,3 +1,5 @@
 # platziConf
 
-Abrir indexJ.html
+indexJ.html
+indexJ.css
+indexJ.js
