@@ -1,0 +1,3 @@
+# platziConf
+
+Abrir indexJ.html
